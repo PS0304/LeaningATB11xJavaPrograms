@@ -11,12 +11,6 @@ public class Person_class
         System.out.println(p1.getAddress()); //Without Parameters but With Return Type
         p1.get_mobile(909090); //With Parameters and Without Return Type
         p1.get_Full_Details("Prabhat", "prabhat.sao@gmail.com", 986293565); //With Parameters and With Return Type
-
-
-
-
-
-
     }
 }
 class Person
